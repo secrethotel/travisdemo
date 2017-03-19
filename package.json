@@ -1,0 +1,25 @@
+{
+  "name": "travisdemo",
+  "version": "1.0.0",
+  "description": "try travis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/secrethotel/travisdemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/secrethotel/travisdemo/issues"
+  },
+  "homepage": "https://github.com/secrethotel/travisdemo#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.5.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-phantomjs-launcher": "^1.0.4"
+  }
+}
